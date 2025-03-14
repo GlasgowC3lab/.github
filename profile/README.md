@@ -6,5 +6,6 @@ Current lab members include:
 - [James Nurdin](https://github.com/JamesNurdin/)
 - [Lauritz Thamsen](https://github.com/lauritzthamsen/)
 - [Kathleen West](https://github.com/westkath)
+- [Youssef Moawad](https://github.com/DevdudeSami)
 
 For the latest news, follow us on [BlueSky](https://bsky.app/profile/glasgowc3lab.bsky.social).
