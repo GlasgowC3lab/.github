@@ -4,8 +4,10 @@ The [Glasgow Carbon-Conscious Computing (GC3) lab](https://lauritzthamsen.org/la
 
 Current lab members include:
 - [James Nurdin](https://github.com/JamesNurdin/)
-- [Lauritz Thamsen](https://github.com/lauritzthamsen/)
-- [Kathleen West](https://github.com/westkath)
+- [Max MacDonald](https://github.com/MaxMacDonald)
 - [Youssef Moawad](https://github.com/DevdudeSami)
+- [Lauritz Thamsen](https://github.com/lauritzthamsen/)
+- [Matthew Waters](https://github.com/matthew-waters)
+- [Kathleen West](https://github.com/westkath)
 
 For the latest news, follow us on [BlueSky](https://bsky.app/profile/glasgowc3lab.bsky.social).
